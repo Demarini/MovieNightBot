@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.deps.json
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.runtimeconfig.json
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.dll
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\bin\Debug\netcoreapp1.1\DiscordBot.pdb
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.AssemblyInfo.cs
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.dll
+C:\Users\Tom\source\repos\MovieNightBot\DiscordBot\obj\Debug\netcoreapp1.1\DiscordBot.pdb
